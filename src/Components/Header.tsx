@@ -16,7 +16,7 @@ export default function Header() {
     <header className="container mx-auto">
       <div className="bg-amber-500   py-2 px-2 flex  items-center justify-between">
         <div className="flex items-center gap-3">
-          <div className="text-2xl font-bold text-slate-600">RRS</div>
+          <div className="text-2xl font-bold text-slate-600">ARS</div>
 
           <div className="hidden lg:block">
             <ul className="flex items-center gap-2">
