@@ -1,0 +1,20 @@
+.ropa-sans-regular {
+  font-family: "Ropa Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.michroma-regular {
+  font-family: "Michroma", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.roboto-200 {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
